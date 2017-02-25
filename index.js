@@ -1,2 +1,3 @@
-var x = require('./dist/main.bundle.js');
-console.log(x)
+// This file must be vanilla (node-native) JS :)
+
+module.exports = require('./dist/main.js');
