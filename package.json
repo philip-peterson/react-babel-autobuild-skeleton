@@ -1,6 +1,7 @@
 {
   "name": "react-babel-autobuild-skeleton",
-  "version": "1.0.1",
+  "description": "The simple skeleton for your distributable React components.",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Philip Peterson <pc.peterso@gmail.com>",
   "license": "MIT",
