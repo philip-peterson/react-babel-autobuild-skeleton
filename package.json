@@ -1,7 +1,7 @@
 {
   "name": "react-babel-autobuild-skeleton",
   "description": "The simple skeleton for your distributable React components.",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "main": "index.js",
   "author": "Philip Peterson <pc.peterso@gmail.com>",
   "license": "MIT",
@@ -15,7 +15,7 @@
     "webpack": "^2.2.1"
   },
   "scripts": {
-    "prepublishOnly": "make prepublish"
+    "build": "mkdir -p dist && webpack"
   },
   "dependencies": {
     "react": "^15.4.2"
