@@ -1,3 +1,5 @@
+The simple skeleton for your distributable React components.
+
 About
 =====
 
